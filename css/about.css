@@ -1,0 +1,38 @@
+a {
+    color: #182f42;
+}
+
+header {
+    padding-top: 50px;
+}
+
+footer {
+    padding-top: 50px;
+}
+
+img, embed, object, video {
+    max-width: 100%;
+}
+
+p {
+        padding-right: 5%;
+        padding-left: 5%;
+}
+
+@media (min-width: 1200px) {
+
+    p {
+        padding-right: 10%;
+        padding-left: 10%;
+    }
+
+}
+
+@media (min-width: 1900px) {
+
+    p {
+        padding-right: 15%;
+        padding-left: 15%;
+    }
+
+}

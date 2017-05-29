@@ -1,0 +1,101 @@
+header {
+    padding-top: 50px;
+}
+
+footer {
+    padding-top: 50px;
+}
+
+img, embed, object, video {
+    max-width: 100%;
+}
+
+.post-img-container {
+    text-align: center;
+}
+
+.post-desc-container {
+    margin-bottom: 3%;
+}
+
+.post-title {
+    text-align: center;
+}
+
+.post-summary {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 1.4;
+}
+
+.post-date {
+    text-align: center;
+}
+
+.page-header-custom {
+  padding-bottom: 9px;
+  margin: 40px 0 20px;
+}
+
+@media (min-width: 768px) {
+
+    .post-img-container {
+        margin-left: 20%;
+    }
+
+    .post-desc-container {
+        margin-right: 10%;
+        margin-top: 5%
+    }
+
+    .post-title {
+        text-align: left;
+    }
+
+    .post-summary {
+        text-align: left;
+    }
+
+    .post-date {
+        text-align: left;
+    }
+
+}
+
+@media (min-width: 992px) {
+
+    .post-img-container {
+        margin-left: 40%;
+    }
+
+    .post-desc-container {
+        margin-right: 20%;
+        margin-top: 3%
+    }
+
+}
+
+@media (min-width: 1200px) {
+
+    .post-img-container {
+        margin-left: 50%;
+    }
+
+}
+
+@media (min-width: 1900px) {
+
+    .post-title {
+        font-size: 250%;
+    }
+
+    .post-summary {
+        font-size: 155%;
+    }
+
+    .post-date {
+        font-size: 155%;
+    }
+}
