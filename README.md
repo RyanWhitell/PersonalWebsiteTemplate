@@ -7,4 +7,4 @@ It uses [Bootstrap](http://getbootstrap.com/) as well as some custom JavaScript 
 <img src="About.png" alt="About"/>
 <img src="ArticleParagraph.png" alt="Article One"/>
 <img src="ArticlePic.png" alt="Article Two"/>
-<img src="HomeM.png" alt="Home on Mobile" width="291"/> <img src="ArticleParagraphM.png" alt="Article One on Mobile" width="291"/> <img src="ArticlePicM.png" alt="Article Two on Mobile" width="291"/>
+<img src="HomeM.png" alt="Home on Mobile" width="291"/><img src="ArticleParagraphM.png" alt="Article One on Mobile" width="291"/><img src="ArticlePicM.png" alt="Article Two on Mobile" width="291"/>
